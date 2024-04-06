@@ -1,0 +1,63 @@
++---------------------+-------------------+----------------------------------------------------+----------------------+----------------------+
+|     Source Name     |      Author       |                       Title                        |     Published At     |     description      |
++---------------------+-------------------+----------------------------------------------------+----------------------+----------------------+
+| Yahoo Entertainment |     Kris Holt     | Tesla sees EV deliveries drop year-over-year for t | 2024-04-02T15:30:20Z |        Tesla         |
+|                     |                   |              he first time since 2020              |                      |     has revealed     |
+|                     |                   |                                                    |                      |  how many vehicles i |
+|                     |                   |                                                    |                      | t delivered in the f |
+|                     |                   |                                                    |                      | irst three months of |
+|                     |                   |                                                    |                      |  2024 and the figure |
+|                     |                   |                                                    |                      | s dropped significan |
+|                     |                   |                                                    |                      | tly from both the pr |
+|                     |                   |                                                    |                      | evious quarter and t |
+|                     |                   |                                                    |                      | he same period in 20 |
+|                     |                   |                                                    |                      |          23          |
+|                     |                   |                                                    |                      |   . The company ha   |
+|                     |                   |                                                    |                      |      nded over       |
+|                     |                   |                                                    |                      |       386,810        |
+|                     |                   |                                                    |                      | EVs during the perio |
+|                     |                   |                                                    |                      |          d.          |
+|                     |                   |                                                    |                      |  That's down 20 p…   |
+|      The Verge      | Andrew J. Hawkins | Rivian owners now have access to Tesla Supercharge | 2024-03-18T15:45:19Z | Rivian customers now |
+|                     |                   |                         rs                         |                      |  have access to over |
+|                     |                   |                                                    |                      |  15,000 Tesla Superc |
+|                     |                   |                                                    |                      | harger stations in t |
+|                     |                   |                                                    |                      | he US. The company i |
+|                     |                   |                                                    |                      | s starting to send a |
+|                     |                   |                                                    |                      | dapters to its custo |
+|                     |                   |                                                    |                      | mers so they can use |
+|                     |                   |                                                    |                      |     the stations.    |
+|     Gizmodo.com     |   Jody Serrano    | Tesla Didn’t Pay Any Federal Income Taxes for 5 Ye | 2024-03-14T14:50:00Z | Tesla, the company h |
+|                     |                   |           ars, Got $1 Million Tax Refund           |                      | elmed by one of the  |
+|                     |                   |                                                    |                      | richest men on the p |
+|                     |                   |                                                    |                      | lanet, is a cheapska |
+|                     |                   |                                                    |                      | te when it comes to  |
+|                     |                   |                                                    |                      | paying taxes, accord |
+|                     |                   |                                                    |                      | ing to a new report  |
+|                     |                   |                                                    |                      | released on Wednesda |
+|                     |                   |                                                    |                      | y. In fact, the comp |
+|                     |                   |                                                    |                      | any paid exactly $0  |
+|                     |                   |                                                    |                      | in federal income ta |
+|                     |                   |                                                    |                      | xes over the past fi |
+|                     |                   |                                                    |                      | ve years and even m… |
+|        Wired        |  Aarian Marshall  |   Rivian R2, R3, R3X: Price, Specs, Release Date   | 2024-03-07T19:45:22Z | The Rivian R2, a new |
+|                     |                   |                                                    |                      |  smaller EV, will co |
+|                     |                   |                                                    |                      | st “around” $45,000  |
+|                     |                   |                                                    |                      | and be available in  |
+|                     |                   |                                                    |                      | 2026, the troubled e |
+|                     |                   |                                                    |                      | lectric automaker sa |
+|                     |                   |                                                    |                      | id at an event in Ca |
+|                     |                   |                                                    |                      | lifornia today. Two  |
+|                     |                   |                                                    |                      | crossovers, the R3 a |
+|                     |                   |                                                    |                      | nd R3X, will follow. |
+|      The Verge      |  Jess Weatherbed  | Cars will need fewer screens and more buttons to e | 2024-03-05T12:31:07Z | Euro NCAP is encoura |
+|                     |                   |         arn 5-star safety rating in Europe         |                      | ging car makers to s |
+|                     |                   |                                                    |                      | top using dashboard  |
+|                     |                   |                                                    |                      | touchscreens and inf |
+|                     |                   |                                                    |                      | otainment systems fo |
+|                     |                   |                                                    |                      | r basic functions li |
+|                     |                   |                                                    |                      | ke directional indic |
+|                     |                   |                                                    |                      | ators and hazard lig |
+|                     |                   |                                                    |                      |         hts          |
++---------------------+-------------------+----------------------------------------------------+----------------------+----------------------+
+
